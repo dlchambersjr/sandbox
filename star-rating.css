@@ -1,0 +1,10 @@
+li {
+  display: inline-block;
+  cursor: pointer;
+  font-size: 30px;
+  color: gray;
+}
+
+.hover, .clicked {
+  color: gold;
+}
